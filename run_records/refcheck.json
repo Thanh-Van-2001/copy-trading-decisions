@@ -1,0 +1,347 @@
+[
+  {
+    "key": "markowitz1952portfolio",
+    "verdict": "VERIFIED",
+    "bib_title": "Portfolio selection",
+    "matched_title": "Portfolio Selection",
+    "similarity": 1.0,
+    "identifier": "doi:10.2307/2975974",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.2307/2975974"
+  },
+  {
+    "key": "demiguel2009optimal",
+    "verdict": "VERIFIED",
+    "bib_title": "Optimal versus naive diversification: how inefficient is the 1/{N} portfolio strategy?",
+    "matched_title": "Optimal Versus Naive Diversification: How Inefficient is the 1/\n                    <i>N</i>\n                    Portfolio Strategy?",
+    "similarity": 0.9230769230769231,
+    "identifier": "doi:10.1093/rfs/hhm075",
+    "source": "crossref",
+    "warnings": [
+      "year 2009 vs upstream 2007"
+    ],
+    "evidence_url": "https://doi.org/10.1093/rfs/hhm075"
+  },
+  {
+    "key": "pflug2012one",
+    "verdict": "VERIFIED",
+    "bib_title": "The 1/{N} investment strategy is optimal under high model ambiguity",
+    "matched_title": "The 1/N investment strategy is optimal under high model ambiguity",
+    "similarity": 1.0,
+    "identifier": "doi:10.1016/j.jbankfin.2011.07.018",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1016/j.jbankfin.2011.07.018"
+  },
+  {
+    "key": "chang2000heuristics",
+    "verdict": "VERIFIED",
+    "bib_title": "Heuristics for cardinality constrained portfolio optimisation",
+    "matched_title": "Heuristics for cardinality constrained portfolio optimisation",
+    "similarity": 1.0,
+    "identifier": "doi:10.1016/S0305-0548(99)00074-X",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1016/s0305-0548(99)00074-x"
+  },
+  {
+    "key": "kaplan1958nonparametric",
+    "verdict": "VERIFIED",
+    "bib_title": "Nonparametric estimation from incomplete observations",
+    "matched_title": "Nonparametric Estimation from Incomplete Observations",
+    "similarity": 1.0,
+    "identifier": "doi:10.1080/01621459.1958.10501452",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1080/01621459.1958.10501452"
+  },
+  {
+    "key": "huberman1997economics",
+    "verdict": "VERIFIED",
+    "bib_title": "An economics approach to hard computational problems",
+    "matched_title": "An Economics Approach to Hard Computational Problems",
+    "similarity": 1.0,
+    "identifier": "doi:10.1126/science.275.5296.51",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1126/science.275.5296.51"
+  },
+  {
+    "key": "gomes2001algorithm",
+    "verdict": "VERIFIED",
+    "bib_title": "Algorithm portfolios",
+    "matched_title": "Algorithm portfolios",
+    "similarity": 1.0,
+    "identifier": "doi:10.1016/S0004-3702(00)00081-3",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1016/s0004-3702(00)00081-3"
+  },
+  {
+    "key": "rice1976algorithm",
+    "verdict": "VERIFIED",
+    "bib_title": "The algorithm selection problem",
+    "matched_title": "The Algorithm Selection Problem",
+    "similarity": 1.0,
+    "identifier": "doi:10.1016/S0065-2458(08)60520-3",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1016/s0065-2458(08)60520-3"
+  },
+  {
+    "key": "barber2000trading",
+    "verdict": "VERIFIED",
+    "bib_title": "Trading is hazardous to your wealth: the common stock investment performance of individual investors",
+    "matched_title": "Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors",
+    "similarity": 1.0,
+    "identifier": "doi:10.1111/0022-1082.00226",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1111/0022-1082.00226"
+  },
+  {
+    "key": "apesteguia2020copy",
+    "verdict": "VERIFIED",
+    "bib_title": "Copy trading",
+    "matched_title": "Copy Trading",
+    "similarity": 1.0,
+    "identifier": "doi:10.1287/mnsc.2019.3508",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1287/mnsc.2019.3508"
+  },
+  {
+    "key": "pelster2018platform",
+    "verdict": "VERIFIED",
+    "bib_title": "About the fear of reputational loss: social trading and the disposition effect",
+    "matched_title": "About the fear of reputational loss: Social trading and the disposition effect",
+    "similarity": 1.0,
+    "identifier": "doi:10.1016/j.jbankfin.2018.07.003",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1016/j.jbankfin.2018.07.003"
+  },
+  {
+    "key": "berk2004mutual",
+    "verdict": "VERIFIED",
+    "bib_title": "Mutual fund flows and performance in rational markets",
+    "matched_title": "Mutual Fund Flows and Performance in Rational Markets",
+    "similarity": 1.0,
+    "identifier": "doi:10.1086/424739",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1086/424739"
+  },
+  {
+    "key": "carhart1997persistence",
+    "verdict": "VERIFIED",
+    "bib_title": "On persistence in mutual fund performance",
+    "matched_title": "On Persistence in Mutual Fund Performance",
+    "similarity": 1.0,
+    "identifier": "doi:10.1111/j.1540-6261.1997.tb03808.x",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1111/j.1540-6261.1997.tb03808.x"
+  },
+  {
+    "key": "brown1999offshore",
+    "verdict": "VERIFIED",
+    "bib_title": "Offshore hedge funds: survival and performance, 1989--95",
+    "matched_title": "Offshore Hedge Funds: Survival and Performance, 1989\u201395",
+    "similarity": 1.0,
+    "identifier": "doi:10.1086/209603",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1086/209603"
+  },
+  {
+    "key": "liang2000hedge",
+    "verdict": "VERIFIED",
+    "bib_title": "Hedge funds: the living and the dead",
+    "matched_title": "Hedge Funds: The Living and the Dead",
+    "similarity": 1.0,
+    "identifier": "doi:10.2307/2676206",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.2307/2676206"
+  },
+  {
+    "key": "fung2000performance",
+    "verdict": "VERIFIED",
+    "bib_title": "Performance characteristics of hedge funds and commodity funds: natural vs. spurious biases",
+    "matched_title": "Performance Characteristics of Hedge Funds and Commodity Funds: Natural vs. Spurious Biases",
+    "similarity": 1.0,
+    "identifier": "doi:10.2307/2676205",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.2307/2676205"
+  },
+  {
+    "key": "whittle1988restless",
+    "verdict": "VERIFIED",
+    "bib_title": "Restless bandits: activity allocation in a changing world",
+    "matched_title": "Restless bandits: activity allocation in a changing world",
+    "similarity": 1.0,
+    "identifier": "doi:10.2307/3214163",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.2307/3214163"
+  },
+  {
+    "key": "sharpe1966mutual",
+    "verdict": "VERIFIED",
+    "bib_title": "Mutual fund performance",
+    "matched_title": "Mutual Fund Performance",
+    "similarity": 1.0,
+    "identifier": "doi:10.1086/294846",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1086/294846"
+  },
+  {
+    "key": "efron1979bootstrap",
+    "verdict": "VERIFIED",
+    "bib_title": "Bootstrap methods: another look at the jackknife",
+    "matched_title": "Bootstrap Methods: Another Look at the Jackknife",
+    "similarity": 1.0,
+    "identifier": "doi:10.1214/aos/1176344552",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1214/aos/1176344552"
+  },
+  {
+    "key": "spearman1904proof",
+    "verdict": "VERIFIED",
+    "bib_title": "The proof and measurement of association between two things",
+    "matched_title": "The Proof and Measurement of Association between Two Things",
+    "similarity": 1.0,
+    "identifier": "doi:10.2307/1412159",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.2307/1412159"
+  },
+  {
+    "key": "lo2002statistics",
+    "verdict": "VERIFIED",
+    "bib_title": "The statistics of {Sharpe} ratios",
+    "matched_title": "The Statistics of Sharpe Ratios",
+    "similarity": 1.0,
+    "identifier": "doi:10.2469/faj.v58.n4.2453",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.2469/faj.v58.n4.2453"
+  },
+  {
+    "key": "newey1987simple",
+    "verdict": "VERIFIED",
+    "bib_title": "A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix",
+    "matched_title": "A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix",
+    "similarity": 1.0,
+    "identifier": "doi:10.2307/1913610",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.2307/1913610"
+  },
+  {
+    "key": "bailey2014deflated",
+    "verdict": "VERIFIED",
+    "bib_title": "The deflated {Sharpe} ratio: correcting for selection bias, backtest overfitting, and non-normality",
+    "matched_title": "The Deflated Sharpe Ratio:\n                    <i>Correcting for Selection Bias, Backtest</i>\n                    <i>Overfitting, and Non-Normality</i>",
+    "similarity": 0.9285714285714286,
+    "identifier": "doi:10.3905/jpm.2014.40.5.094",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.3905/jpm.2014.40.5.094"
+  },
+  {
+    "key": "dorfleitner2018follow",
+    "verdict": "VERIFIED",
+    "bib_title": "To follow or not to follow: an empirical analysis of the returns of actors on social trading platforms",
+    "matched_title": "To follow or not to follow \u2013 An empirical analysis of the returns of actors on social trading platforms",
+    "similarity": 1.0,
+    "identifier": "doi:10.1016/j.qref.2018.04.009",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1016/j.qref.2018.04.009"
+  },
+  {
+    "key": "constantinides1986capital",
+    "verdict": "VERIFIED",
+    "bib_title": "Capital market equilibrium with transaction costs",
+    "matched_title": "Capital Market Equilibrium with Transaction Costs",
+    "similarity": 1.0,
+    "identifier": "doi:10.1086/261410",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1086/261410"
+  },
+  {
+    "key": "davis1990portfolio",
+    "verdict": "VERIFIED",
+    "bib_title": "Portfolio selection with transaction costs",
+    "matched_title": "Portfolio Selection with Transaction Costs",
+    "similarity": 1.0,
+    "identifier": "doi:10.1287/moor.15.4.676",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1287/moor.15.4.676"
+  },
+  {
+    "key": "harvey2016cross",
+    "verdict": "VERIFIED",
+    "bib_title": "$\\ldots$ and the cross-section of expected returns",
+    "matched_title": "\u2026 and the Cross-Section of Expected Returns",
+    "similarity": 0.875,
+    "identifier": "doi:10.1093/rfs/hhv059",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1093/rfs/hhv059"
+  },
+  {
+    "key": "white2000reality",
+    "verdict": "VERIFIED",
+    "bib_title": "A reality check for data snooping",
+    "matched_title": "A Reality Check for Data Snooping",
+    "similarity": 1.0,
+    "identifier": "doi:10.1111/1468-0262.00152",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1111/1468-0262.00152"
+  },
+  {
+    "key": "iosco2025imitative",
+    "verdict": "NOT_FOUND",
+    "bib_title": "Online Imitative Trading Practices: Copy Trading, Mirror Trading, Social Trading",
+    "matched_title": "Social-Trading und Copy-Trading",
+    "similarity": 0.375,
+    "identifier": null,
+    "source": "crossref",
+    "warnings": [
+      "no identifier in entry and title search failed (closest was 'Social-Trading und Copy-Trading' at 0.38)"
+    ],
+    "evidence_url": "https://doi.org/10.34157/9783791045979-287"
+  },
+  {
+    "key": "chen2004does",
+    "verdict": "VERIFIED",
+    "bib_title": "Does fund size erode mutual fund performance? The role of liquidity and organization",
+    "matched_title": "Does Fund Size Erode Mutual Fund Performance? The Role of Liquidity and Organization",
+    "similarity": 1.0,
+    "identifier": "doi:10.1257/0002828043052277",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1257/0002828043052277"
+  },
+  {
+    "key": "pastor2015scale",
+    "verdict": "VERIFIED",
+    "bib_title": "Scale and skill in active management",
+    "matched_title": "Scale and skill in active management",
+    "similarity": 1.0,
+    "identifier": "doi:10.1016/j.jfineco.2014.11.008",
+    "source": "crossref",
+    "warnings": [],
+    "evidence_url": "https://doi.org/10.1016/j.jfineco.2014.11.008"
+  }
+]

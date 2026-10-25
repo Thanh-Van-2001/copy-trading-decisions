@@ -1,0 +1,90 @@
+{
+ "screen": "none",
+ "rep_sharpe": 0.388,
+ "ceiling": 1.429,
+ "moments": {
+  "var_bar": 0.040148,
+  "cov_bar": 0.002966,
+  "rho": 0.073877,
+  "hazard_month": 0.0395,
+  "p_week": 0.990743,
+  "p_bar": 0.884155,
+  "weeks": 26,
+  "n_eff_ceiling": 13.536076
+ },
+ "mu_weekly": 0.010781,
+ "curve": [
+  {
+   "k": 1,
+   "measured": 1.047,
+   "predicted": 0.365,
+   "gap": 0.682,
+   "measured_share_of_ceiling": 0.733,
+   "model_share_of_ceiling": 0.256
+  },
+  {
+   "k": 3,
+   "measured": 1.067,
+   "predicted": 0.595,
+   "gap": 0.472,
+   "measured_share_of_ceiling": 0.747,
+   "model_share_of_ceiling": 0.416
+  },
+  {
+   "k": 5,
+   "measured": 1.109,
+   "predicted": 0.727,
+   "gap": 0.382,
+   "measured_share_of_ceiling": 0.776,
+   "model_share_of_ceiling": 0.509
+  },
+  {
+   "k": 10,
+   "measured": 1.179,
+   "predicted": 0.916,
+   "gap": 0.263,
+   "measured_share_of_ceiling": 0.825,
+   "model_share_of_ceiling": 0.641
+  },
+  {
+   "k": 20,
+   "measured": 1.245,
+   "predicted": 1.091,
+   "gap": 0.154,
+   "measured_share_of_ceiling": 0.871,
+   "model_share_of_ceiling": 0.763
+  },
+  {
+   "k": 40,
+   "measured": 1.383,
+   "predicted": 1.226,
+   "gap": 0.157,
+   "measured_share_of_ceiling": 0.968,
+   "model_share_of_ceiling": 0.858
+  },
+  {
+   "k": 80,
+   "measured": 1.422,
+   "predicted": 1.316,
+   "gap": 0.106,
+   "measured_share_of_ceiling": 0.995,
+   "model_share_of_ceiling": 0.921
+  },
+  {
+   "k": 160,
+   "measured": 1.414,
+   "predicted": 1.369,
+   "gap": 0.045,
+   "measured_share_of_ceiling": 0.99,
+   "model_share_of_ceiling": 0.958
+  }
+ ],
+ "target": 0.9,
+ "k_for_target": 61.0,
+ "k_for_target_no_mortality": 53.4,
+ "attained_at_five": 0.509,
+ "attained_at_twenty": 0.763,
+ "predicted_gain_five_to_twenty": 0.364,
+ "measured_gain_five_to_twenty": 0.136,
+ "predicted_ratio_five_to_twenty": 1.5
+}

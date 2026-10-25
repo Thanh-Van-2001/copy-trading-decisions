@@ -1,0 +1,82 @@
+{
+ "dates": [
+  "2026-10-05",
+  "2026-10-19"
+ ],
+ "days_between": 14,
+ "listing": {
+  "s1_rows": 47195,
+  "s2_rows": 47220,
+  "both": 46098,
+  "left": 1097,
+  "joined": 1122,
+  "left_pct": 2.324,
+  "left_acct_median": 111766.15,
+  "left_under_dust": 0,
+  "left_under_dust_pct": 0.0,
+  "left_acct_max": 58936122.72,
+  "left_over_acctmin": 1097,
+  "left_losers_pct": 10.8,
+  "frame_losers_pct": 47.4,
+  "below_acctmin": 31788,
+  "below_acctmin_left": 0,
+  "above_acctmin": 15407,
+  "above_acctmin_left_pct": 7.12,
+  "left_acct_min": 100000.21,
+  "frame_acct_median": 1602.2,
+  "panel_drawn": 2455,
+  "panel_left": 49,
+  "panel_left_pct": 2.0
+ },
+ "turnover": {
+  "weeks_between": 2.0,
+  "all": {
+   "n": 1887,
+   "pred_median": 15.923,
+   "actual_median": 0.0,
+   "excess_median": 2.938,
+   "excess_p75": 20.0,
+   "overstates_pct": 72.4,
+   "excess_bp_median": 27.9,
+   "traded_nothing": 1186,
+   "traded_nothing_pct": 62.9,
+   "charged_but_idle": 1031,
+   "charged_but_idle_pct": 54.6,
+   "ratio_median_if_traded": 0.9,
+   "ratio_p25_if_traded": 0.27,
+   "ratio_p75_if_traded": 2.94
+  },
+  "screened": {
+   "n": 763,
+   "pred_median": 0.215,
+   "actual_median": 0.0,
+   "excess_median": 0.015,
+   "excess_p75": 0.53,
+   "overstates_pct": 59.6,
+   "excess_bp_median": 0.1,
+   "traded_nothing": 459,
+   "traded_nothing_pct": 60.2,
+   "charged_but_idle": 304,
+   "charged_but_idle_pct": 39.8,
+   "ratio_median_if_traded": 0.98,
+   "ratio_p25_if_traded": 0.38,
+   "ratio_p75_if_traded": 3.11
+  },
+  "unscreened": {
+   "n": 1124,
+   "pred_median": 20.0,
+   "actual_median": 0.0,
+   "excess_median": 20.0,
+   "excess_p75": 20.0,
+   "overstates_pct": 81.1,
+   "excess_bp_median": 190.0,
+   "traded_nothing": 727,
+   "traded_nothing_pct": 64.7,
+   "charged_but_idle": 727,
+   "charged_but_idle_pct": 64.7,
+   "ratio_median_if_traded": 0.79,
+   "ratio_p25_if_traded": 0.19,
+   "ratio_p75_if_traded": 2.93
+  }
+ }
+}

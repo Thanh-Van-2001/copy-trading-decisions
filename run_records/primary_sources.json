@@ -1,0 +1,14 @@
+[
+ {
+  "key": "iosco2025imitative",
+  "url": "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD793.pdf",
+  "ok": true,
+  "title_token_share": 1.0,
+  "number": "FR/06/2025",
+  "number_found": true,
+  "sha256": "f66025fc0ada33ad579bd4a023c0b4c718db71cd854cdeeb77be19d3c38b711b",
+  "bytes": 861369,
+  "chars_extracted": 102799,
+  "retrieved": "2026-10-25T10:13:23Z"
+ }
+]

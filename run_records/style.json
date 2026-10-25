@@ -1,0 +1,50 @@
+{
+  "findings": [
+    {
+      "kind": "lexicon",
+      "severity": "style",
+      "tex_file": "main.tex",
+      "line": 44,
+      "match": "leverage",
+      "suggestion": "use",
+      "context": "o mirrors MATH leaders at weight MATH has no leverage dial and the two criteria do not always agre"
+    },
+    {
+      "kind": "lexicon",
+      "severity": "style",
+      "tex_file": "main.tex",
+      "line": 105,
+      "match": "leverage",
+      "suggestion": "use",
+      "context": "than from fills, so position-level exposure, leverage and holding periods are not observed. The se"
+    },
+    {
+      "kind": "lexicon",
+      "severity": "style",
+      "tex_file": "main.tex",
+      "line": 117,
+      "match": "leverage",
+      "suggestion": "use",
+      "context": "platform whose leaders are vetted and whose leverage is capped, where the attrition hazard is pla"
+    },
+    {
+      "kind": "structure",
+      "severity": "structure",
+      "tex_file": "main.tex",
+      "line": 105,
+      "match": "exposure, leverage and holding",
+      "suggestion": "tricolon; vary the rhythm if these cluster",
+      "context": "from fills, so position-level exposure, leverage and holding periods are not observed. The"
+    }
+  ],
+  "rhythm": {
+    "n_sentences": 176,
+    "mean_words": 33.6,
+    "sd_words": 36.1,
+    "coef_variation": 1.075,
+    "pct_short_under_10": 7.4,
+    "pct_long_over_35": 32.4,
+    "longest": 393,
+    "flat_warning": false
+  }
+}
