@@ -17,6 +17,7 @@ authors:
     given-names: Wai Kin (Victor)
     orcid: "https://orcid.org/0000-0002-7202-1922"
     affiliation: "Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School, Tsinghua University"
+doi: "10.5281/zenodo.23640388"
 repository-code: "https://github.com/Thanh-Van-2001/copy-trading-decisions"
 license: MIT
 version: 1.0.0

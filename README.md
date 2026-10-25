@@ -1,5 +1,10 @@
 # Which copy-trading decision pays — replication package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23640388.svg)](https://doi.org/10.5281/zenodo.23640388)
+
+Archived release: **https://doi.org/10.5281/zenodo.23640388** (concept DOI, always
+resolves to the latest version).
+
 Code, data and run records for:
 
 > **Screening beats ranking: the value of five copy-trading decisions on a perpetual futures exchange.**
