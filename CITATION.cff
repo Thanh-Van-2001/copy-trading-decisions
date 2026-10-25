@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: If you use this package, please cite it as below.
+type: software
+title: "Replication package: Screening beats ranking — the value of five copy-trading decisions on a perpetual futures exchange"
+abstract: >-
+  Code, data and run records for a study measuring what each of the five
+  decisions in copy trading is worth, on a panel of 1,928 Hyperliquid accounts
+  drawn from a public snapshot of 47,195 addresses, net of cost and over a grid
+  of cost levels. Every number in the manuscript is generated from the run
+  records; a number typed by hand fails the build.
+authors:
+  - family-names: Nguyen
+    given-names: Thanh Van
+    orcid: "https://orcid.org/0009-0002-5287-5741"
+    affiliation: "Tsinghua Shenzhen International Graduate School, Tsinghua University"
+  - family-names: Chan
+    given-names: Wai Kin (Victor)
+    orcid: "https://orcid.org/0000-0002-7202-1922"
+    affiliation: "Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School, Tsinghua University"
+repository-code: "https://github.com/Thanh-Van-2001/copy-trading-decisions"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-25"
+keywords:
+  - copy trading
+  - portfolio selection
+  - delegated management
+  - survival analysis
+  - diversification
+  - decision analysis
+  - perpetual futures
